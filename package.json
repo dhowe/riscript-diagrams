@@ -1,0 +1,13 @@
+{
+  "name": "riscript-diagrams",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "chevrotain": "11.0.3",
+    "lodash": "4.17.21"
+  },
+  "devDependencies": {
+    "esbuild": "0.18.11"
+  },
+  "private": true
+}
