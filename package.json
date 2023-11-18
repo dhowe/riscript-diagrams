@@ -2,6 +2,9 @@
   "name": "riscript-diagrams",
   "version": "1.0.0",
   "type": "module",
+  "scripts": {
+    "diagram": "node index.js"
+  },
   "dependencies": {
     "chevrotain": "11.0.3",
     "lodash": "4.17.21"
