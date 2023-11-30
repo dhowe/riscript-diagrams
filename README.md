@@ -1,4 +1,4 @@
-[![install size](https://badgen.net/packagephobia/install/rita.js?label=npm+install)](https://packagephobia.now.sh/result?p=rita.js)
+![minified](https://img.shields.io/github/size/riscript/cdn-release/build/riscript.js?label=minified)
 
 # riscript-diagrams
 riscript-diagrams
